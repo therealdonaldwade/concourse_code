@@ -2,4 +2,6 @@
 
 echo Here I am
 
-# bundle install && rspec game_spec.rb --color --format doc
+gem install bundler && \
+  bundle install && \
+  rspec game_spec.rb --color --format doc
