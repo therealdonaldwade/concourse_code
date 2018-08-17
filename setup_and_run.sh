@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-bundle install && rspec game_spec.rb --color --format doc
+echo Here I am
+
+# bundle install && rspec game_spec.rb --color --format doc
